@@ -1,19 +1,16 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Amirreza%20Mohammadi&fontAlignY=40&color=gradient)
 
 
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,tailwind,bootstrap" />
-  </a>
+
+  <img algin="left" src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,tailwind,bootstrap" />
   <br>
   <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vscode,php,laravel,mysql" />
-  </a>
-</div>
+  <img algin="left" src="https://skillicons.dev/icons?i=react,nextjs,vscode,php,laravel,mysql" />
+  <img align="right" height="252px" width="336.5px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+
 ##Web Developer | Computer Engineer
     
-<img align="right" height="252px" width="336.5px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+
 
 <br /><br /><br /><br />
 
