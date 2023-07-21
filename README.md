@@ -5,7 +5,7 @@
     <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,tailwind,bootstrap" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,vscode,php,laravel,mysql" />
   </a>
@@ -13,7 +13,7 @@
 
 <img align="right" height="252px" width="336.5px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-<h1 align="left">Frontend Developer and Computer engineer</h1>
+<h2 align="left">Frontend Developer and Computer engineer</h2>
 
 <br />
 <br />
