@@ -1,5 +1,3 @@
-# Hi there, I'm Amirreza Mohammadi 👋 
-
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Amirreza%20Mohammadi&fontAlignY=40&color=gradient)
 
 ### Languages and Tools:
