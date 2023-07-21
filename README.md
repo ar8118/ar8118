@@ -2,18 +2,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,tailwind,bootstrap,vscode" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,tailwind,bootstrap" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,php,laravel,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vscode,php,laravel,mysql" />
   </a>
 </p>
 
 <img align="right" height="252px" width="336.5px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-##Frontend Developer and Computer engineer
+<h1 align="left">Frontend Developer and Computer engineer</h1>
 
 <br />
 <br />
